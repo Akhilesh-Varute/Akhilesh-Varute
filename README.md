@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&width=600&lines=👋+Hi,+I'm+Akhilesh+Varute!;Cloud-Native+Product+Developer+%7C+CloudOps+Enthusiast;GenAI+%2B+Automation+Practitioner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&width=900&lines=👋+Hi,+I'm+Akhilesh+Varute!;Cloud-Native+Product+Developer+%7C+Building+the+Future+with+Cloud+%26+AI;Passionate+about+Automation,+GenAI,+and+Innovation" />
 </p>
 
 ---
