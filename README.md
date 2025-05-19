@@ -54,12 +54,22 @@
 
 ---
 
+### 💼 Available for Freelance Projects
+If you're looking for a **Cloud-Native Product Developer** passionate about **automation, GenAI, and cloud solutions**, feel free to reach out!  
+I'm open to **freelance, contract, or collaboration opportunities** — let's build something amazing together! 🚀
+
+---
+
 ### 📈 GitHub Stats
 
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akhilesh-varute&show_icons=true&theme=radical" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilesh-varute&layout=compact&theme=radical" height="165" />
 </p>
+-->
+
+*Building up my GitHub contributions — exciting projects coming soon! 🚀*
 
 ---
 
