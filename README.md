@@ -1,35 +1,90 @@
-### 👋 Hi there, I'm Akhilesh Varute!
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&width=600&lines=👋+Hi,+I'm+Akhilesh+Varute!;Cloud-Native+Product+Developer+%7C+CloudOps+Enthusiast;GenAI+%2B+Automation+Practitioner" />
+</p>
 
-Welcome to my GitHub! I'm a tech enthusiast with a knack for developing innovative solutions and tackling real-world challenges. Here's a bit about me:
+---
 
 ### 🚀 What I'm Up To
 - 🌐 [My Portfolio](https://akhilesh-varute.github.io/)
-- 🛠 Working on Gen AI-based products and cloud-native solutions.
-- 📈 Leading projects and optimizing software performance.
+- 🤖 Creating GenAI-powered tools to simplify CloudOps and DevOps tasks.
+- 🛠 Developing automation systems to boost developer productivity and operational efficiency.
+- 🧪 Currently working on:
+  - 🐳 **[Docker Optimizer](https://github.com/akhilesh-varute/dockerfile-optimizer)** – A built CLI tool powered by GenAI to automatically analyze and optimize Dockerfiles for efficiency.
+  - ☁️ **Cloud Cost IQ** *(In Progress)* – A cloud-native dashboard that provides intelligent, real-time insights on AWS costs, security risks, and usage patterns.
+
+---
 
 ### 🏅 My Journey
 #### Software Developer (June 2024 - Present)
-- Juggling multiple projects and keeping customers happy.
-- Leading product and project management, ensuring smooth development and delivery.
-- Building Gen AI-based products to automate and scale.
-- Solving tricky coding issues and speeding up product releases.
-- Mentoring junior developers and sharing my knowledge.
-- Automating tasks to make life easier and improve workflow.
+- Designing and shipping GenAI-integrated, cloud-native platforms from scratch.
+- Automating cloud workflows and DevOps routines using scripting, APIs, and containerized tools.
+- Leading full project cycles — from architecture to delivery.
+- Mentoring junior developers and sharing best practices regularly.
+- Improving system performance, reducing deployment cycles, and accelerating releases.
+
+---
 
 ### 🧠 My Skills
-- **Tech:** React.js, Node.js, MongoDB, Docker, Kubernetes, AWS, API Development.
-- **Dev & Deployment:** Software Development Lifecycle, CI/CD, Cloud-native Development.
-- **Leadership:** Project & Product Management, Team Collaboration, Mentorship.
+- **Languages & Frameworks:** JavaScript, TypeScript, React.js, Node.js, Python
+- **Cloud & Tools:** Docker, Kubernetes, AWS (EC2, S3, IAM, CloudTrail), MongoDB
+- **DevOps:** CI/CD (GitHub Actions), Infrastructure-as-Code, API Automation
+- **Practices:** GenAI Integration, Cloud-native Architecture, Agile Delivery
+- **Leadership:** Product Ownership, Tech Mentorship, System Design
+
+---
 
 ### 🎓 My Education
-- **Post Graduate Diploma in Advanced Computing** | Sunbeam Infotech (Sept 2023 - Feb 2024)
-- **Bachelor of Technology in Textile Chemistry** | DKTE Institute of Technology (2018 - 2022)
+- 🎓 **Post Graduate Diploma in Advanced Computing** | Sunbeam Infotech (Sept 2023 – Feb 2024)
+- 🎓 **Bachelor of Technology** | DKTE Institute of Technology (2018 – 2022)
 
-### 🏆 Some Cool Achievements
-- Created AI-based products that boost automation.
-- Led a team to a successful project deployment in record time.
-- Improved deployment cycles by 75% with cloud-native architectures.
+---
+
+### 🏆 Highlights & Achievements
+- ✅ Built and open-sourced the **Docker Optimizer** CLI tool using GenAI.
+- 📊 Reduced manual DevOps effort by creating automation-first tools.
+- ⚙️ Delivered multiple production-ready platforms in tight timelines.
+- 🚀 Contributed to cloud-native architectures that enhanced team productivity.
+
+---
 
 ### 📬 How to Reach Me
-- 📧 Email: [akhileshvarute23@gmail.com](mailto:akhileshvarute23@gmail.com)
-- 💼 LinkedIn: [Akhilesh Varute](https://www.linkedin.com/in/akhileshvarute/)
+- 📧 [Email](mailto:akhileshvarute23@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/akhileshvarute/)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akhilesh-varute&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilesh-varute&layout=compact&theme=radical" height="165" />
+</p>
+
+---
+
+### 🧠 Recent Activity
+
+<!-- You can optionally use a tool like GitHub Activity Stream or Recent Blog Posts -->
+
+- 🐙 Contributed to **Docker Optimizer**
+- 🚧 Building **Cloud Cost IQ**
+- 🧪 Experimenting with AWS SDK + Bedrock for GenAI analysis tools
+
+---
+
+### 🧰 Tech Stack Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
+
+---
+
+*Thanks for stopping by! Feel free to explore my repositories, raise issues, or contribute to any of the projects you find interesting! 🚀*
